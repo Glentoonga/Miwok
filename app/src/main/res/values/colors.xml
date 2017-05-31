@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#513B56</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_numbers">#BCE784</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_family">#5DD39E</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#4895af</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_phrases">#525174</color>
+
+    <!-- Background color for the days and time category -->
+    <color name="category_times">#513B56</color>
+
+    <color name="number_background">#BCE784</color>
+
+    <color name="colors_background">#4895af</color>
+
+    <color name="family_background">#5DD39E</color>
+
+    <color name="phrases_background">#525174</color>
+
+    <color name="list_divider">#bcbcbc</color>
+
+    <color name="list_divider2">#858585</color>
+
+
+
+    <!-- Another Color Theme: 247BA0 70C1B3 B2DBBF FF1654-->
+</resources>
